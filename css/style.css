@@ -56,3 +56,11 @@ section {
 #why-choose {
   background-color: #eeeff1;
 }
+
+.card-content {
+  padding: 30px;
+}
+
+.card img {
+  width: 100%;
+}

@@ -52,8 +52,16 @@
   gap: 30px;
 }
 
+.gap-20 {
+  gap: 20px;
+}
+
 .mt-30 {
   margin-top: 30px;
+}
+
+.text-center {
+  text-align: center;
 }
 
 .h-screen {
@@ -100,5 +108,10 @@
   font-size: 24px;
   line-height: 1.417;
   font-weight: 700;
-  margin-top: -0.32em;
+  margin: 10px 0px 20px 0px;
+  border-radius: 10px;
+}
+
+.card-shadow {
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
 }
