@@ -52,6 +52,10 @@
   gap: 30px;
 }
 
+.mt-30 {
+  margin-top: 30px;
+}
+
 .h-screen {
   height: 1vh;
 }
