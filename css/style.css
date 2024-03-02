@@ -6,6 +6,10 @@ body {
   font-family: "Barlow", sans-serif;
 }
 
+section {
+  padding: 30px 40px;
+}
+
 .hero {
   background-color: #f0f4ff;
   /* padding: ; */
@@ -26,4 +30,24 @@ body {
   font-size: 68px;
   font-weight: bold;
   line-height: 1.135;
+}
+
+#about-us .achievement button {
+  color: white;
+  border: none;
+  font-size: 16px;
+  font-weight: 600;
+  width: 100%;
+  padding: 20px 0px;
+  margin-top: 20px;
+}
+
+#about-more {
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 50px;
+  padding: 30px;
+}
+
+#about-more p {
+  font-size: 15px;
+  padding: 15px 0px;
 }
