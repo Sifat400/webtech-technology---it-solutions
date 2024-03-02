@@ -1,0 +1,29 @@
+* {
+  margin: 0 auto;
+}
+
+body {
+  font-family: "Barlow", sans-serif;
+}
+
+.hero {
+  background-color: #f0f4ff;
+  /* padding: ; */
+}
+.section-content {
+  width: 50%;
+}
+
+.hero .section-content h4 {
+  font-size: 20px;
+  font-weight: 600;
+  margin-bottom: 17px;
+  text-transform: uppercase;
+  margin-top: -0.24em;
+}
+
+.hero .section-content h1 {
+  font-size: 68px;
+  font-weight: bold;
+  line-height: 1.135;
+}
